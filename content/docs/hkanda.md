@@ -4,6 +4,6 @@ weight = 70
 description = "Data Mining"
 title = "Hugues Kanda, Msc"
 draft = false
-bref =  "IData Mining (Université de La Rochelle, France)"
+bref =  "Data Mining (Université de La Rochelle, France)"
 toc = true
 +++
