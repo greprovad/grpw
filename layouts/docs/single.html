@@ -7,7 +7,16 @@
       <p class="hero-lead">
            {{ .Params.bref | safeHTML }}.
       </p>
+ <div id="kube-component" class="content">
+    {{ partial "toc" .}}
 
+    {{ .Content}}
+<!-- Inject script tag in this template  -->
+    {{if .Params.script}}
+     {{ $script := (delimit (slice "scripts" .Params.script) "/")}}
+    {{ partial (string $script) .}}
+    {{end }}
+    </div>
     </div> 
    
     </div>
