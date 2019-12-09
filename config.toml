@@ -20,6 +20,6 @@ Paginate = 4
     weight = -100
     url = "/blog/"
 [[menu.main]]
-    name = "Faq"
+    name = "À Propos"
     weight = -100
     url = "/faq/"
