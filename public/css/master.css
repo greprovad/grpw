@@ -1034,7 +1034,7 @@ tr.border-none td {
   font-size: 13px;
   color: rgba(0, 0, 0, 0.5); }
   #footer p {
-    order: 1; }
+    margin-right: 15em; }
   #footer nav {
     order: 2;
     margin-left: auto; }
