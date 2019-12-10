@@ -15,6 +15,10 @@ h1, h2, h3, h4, h5, h6 {
   margin: auto;
   margin-bottom: 140px; }
 
+.centered { /* the element to center */
+  display: inline-block;
+  vertical-align: middle;
+}
 .form-subscribe {
   text-align: center;
   border-radius: 4px;
