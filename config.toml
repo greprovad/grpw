@@ -1,4 +1,4 @@
-baseURL = "https://greprovad.netlify.com/"
+baseURL = "https://greprovad.org/"
 languageCode = "en-us"
 title = "Greprovad"
 theme = "kube"
