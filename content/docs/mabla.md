@@ -4,6 +4,7 @@ weight = 70
 description = Intelligence Artificielle"
 title = "Mabla Bobina Ferawi, Assistant"
 draft = false
-bref =  " Intelligence Artificielle (Université de Kinshasa, DR Congo)"
+bref =  "Intelligence Artificielle (Université de Kinshasa, DR Congo)"
 toc = true
 +++
+
