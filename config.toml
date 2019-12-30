@@ -1,6 +1,6 @@
 baseURL = "https://greprovad.org/"
 languageCode = "en-us"
-title = "Greprovad Homepage - Groupe de Recherche de Prospection et Valorisation des Données"
+title = "Greprovad Homepage - Greprovad"
 theme = "kube"
 description = "Groupe de Recherche de Prospection et Valorisation des Données"
 Paginate = 4
