@@ -4,6 +4,6 @@ weight = 70
 description = "Intelligence Artificielle"
 title = "Jean Marie Tshimula, PhD Student"
 draft = false
-bref =  "Intelligence Artificielle (Université de Sherbrooke, Canada)"
+bref =  "NLP, Computational Psycholinguistics, Human Behavior Understanding (Université de Sherbrooke, Canada)"
 toc = true
 +++
