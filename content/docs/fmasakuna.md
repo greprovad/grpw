@@ -4,6 +4,6 @@ weight = 70
 description = "Intelligence Artificielle"
 title = "Jordan Félicien Masakuna, PhD"
 draft = false
-bref =  "Intelligence Artificielle (Stellenbosch University, South Africa)"
+bref =  "Computer Vison, Data Fusion, Robotics, Condition and Environmental Monitoring (Stellenbosch University, South Africa)"
 toc = true
 +++
