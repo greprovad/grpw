@@ -4,7 +4,7 @@ title = "On Investigating Election Aftermaths and Bias Effects in Online Forums"
 tags = ["Online Forums","Election"]
 categories = ["AI"]
 draft = false
-description = "Jean Marie Tshimula, Hugues Kanda, Didier Mbuyi Mukendi, René Manassé Galekwa, Patrick Andjasubu, Numfor Solange Ayuni, and Hercule Kalonji Kalala, On Investigating Election Aftermaths and Bias Effects in Online Forums (In Preparation for 12th International Conference on Social Media & Society)"
+description = "Jean Marie Tshimula, Hugues Kanda, Didier Mbuyi Mukendi, René Manassé Galekwa, Patrick Andjasubu, Numfor Solange Ayuni, and Hercule Kalonji Kalala, On Investigating Election Aftermaths and Bias Effects in Online Forums (In Preparation for the 12th International Conference on Social Media & Society)"
 weight = 10
 +++
 
