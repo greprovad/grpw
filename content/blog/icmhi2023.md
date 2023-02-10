@@ -1,5 +1,5 @@
 +++
-date = "2019-10-24"
+date = "2023-02-10"
 title = "Redesigning Electronic Health Record Systems to Support Developing Countries"
 tags = ["Electronic health records", "Clinical decision support", "Developing countries"]
 categories = ["Public health surveillance", "AI"]
