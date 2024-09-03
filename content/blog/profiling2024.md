@@ -1,5 +1,5 @@
 +++
-date = "2024-04-29"
+date = "2024-05-29"
 title = "Psychological Profiling in Cybersecurity: A Look at LLMs and Psycholinguistic Features"
 tags = ["Psychological profiling", "Cybersecurity", "Psycholinguistics", "LLMs"]
 categories = ["Cybersecurity", "AI"]
